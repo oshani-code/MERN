@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    margin:0px 15px;
+}
+
+header{
+    border-bottom: 1px solid rgba(119, 118, 118, 0.479);
+}
